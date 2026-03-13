@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1773360529334,
+      "tag": "0000_nappy_thor",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1773405313866,
+      "tag": "0001_neat_liz_osborn",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1773410366104,
+      "tag": "0002_fat_hercules",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1773425712233,
+      "tag": "0003_fresh_doctor_doom",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1773428060624,
+      "tag": "0004_silent_surge",
+      "breakpoints": true
+    }
+  ]
+}
